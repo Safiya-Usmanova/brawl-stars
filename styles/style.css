@@ -62,7 +62,6 @@ section:nth-child(1) > div > p {
 }
 
 section:nth-child(1) > div > a:last-child {
-  background-color: #000;
   color: white;
   width: 200px;
   padding: 16px 32px;
@@ -84,8 +83,8 @@ section:nth-child(2) {
 section:nth-child(2) > div {
   display: inline-block;
   vertical-align: middle;
-  width: 400px;
-  height: 400px;
+  width: 360px;
+  height: 360px;
   text-align: left;
   border: 8px solid black;
   margin: 20px;
@@ -508,10 +507,10 @@ section:nth-child(2) > div > span {
   font-weight: bold;
   text-transform: uppercase;
   padding-left: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
-section:nth-child(2) > div > h2 {
+section:nth-child(2) > div > h3 {
   padding-left: 10px;
 }
 
