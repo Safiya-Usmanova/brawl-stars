@@ -512,6 +512,7 @@ section:nth-child(2) > div > span {
 
 section:nth-child(2) > div > h3 {
   padding-left: 10px;
+  text-transform: uppercase;
 }
 
 footer {
